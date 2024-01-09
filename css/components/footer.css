@@ -1,0 +1,15 @@
+.footer{
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  padding: 60px;
+  color: grey;
+
+}
+.links a{
+font-size: 30px;
+color: green;
+margin: 0 5px;
+}
+.footer .fa-solid{
+  color: red;
+}

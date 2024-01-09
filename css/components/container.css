@@ -1,0 +1,28 @@
+
+.text{
+text-align: center;
+}
+
+.cards{
+  display: flex;
+  margin-bottom: 30px;
+  justify-content: space-between;
+
+}
+.card{
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0px 5px 16px 9px rgba(206,206,206,0.8);
+  text-align: center;
+  border: 1px solid wheat;
+  padding: 20px;
+
+}
+
+.card img{
+  width: 150px;
+}
+
+.card p{
+  color: gray;
+}
